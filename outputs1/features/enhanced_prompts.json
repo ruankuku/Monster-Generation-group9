@@ -1,0 +1,611 @@
+{
+  "enhanced_prompts": {
+    "1_10": {
+      "personalization_seed_id": 1,
+      "input_seed_id": "10",
+      "prompt": "a advanced cybernetic extraterrestrial alien creature with biomechanical textures, glossy black exoskeleton, chitinous armor, elongated head, sinewy body structure, featuring shadowy coloration, shadowy highlights, dramatic chiaroscuro lighting, deep shadows, ominous atmosphere, foreboding presence, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, H.R. Giger style, biomechanical aesthetic, in style of Pixel - style monster, pixel city ruins background, limited color palette, crisp pixel art, retro gaming aesthetic",
+      "negative_prompt": "fused fingers, bad lighting, extra limbs, mutated, jpeg artifacts, oversaturated, disfigured, too many fingers, basic, poorly drawn, malformed fingers, bad anatomy, disconnected limbs, worst quality, underexposed, low detail, malformed hands, overexposed"
+    },
+    "1_1": {
+      "personalization_seed_id": 1,
+      "input_seed_id": "1",
+      "prompt": "a advanced cybernetic extraterrestrial alien creature with biomechanical textures, glossy black exoskeleton, chitinous armor, elongated head, sinewy body structure, featuring shadowy coloration, shadowy highlights, dramatic chiaroscuro lighting, deep shadows, ominous atmosphere, foreboding presence, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, H.R. Giger style, biomechanical aesthetic, in style of Ukiyo-e yokai, torii/paper lanterns, fox tails/demon masks, deep red/indigo, vintage woodblock texture., detailed hand-carved lines, aged paper texture",
+      "negative_prompt": "cartoon, blurry, low resolution, low quality, fused fingers, disfigured, deformed, extra fingers, basic, malformed fingers, anime, bad anatomy, too many fingers, cropped, jpeg artifacts, rough, worst quality, oversaturated"
+    },
+    "1_2": {
+      "personalization_seed_id": 1,
+      "input_seed_id": "2",
+      "prompt": "a advanced cybernetic extraterrestrial alien creature with biomechanical textures, glossy black exoskeleton, chitinous armor, elongated head, sinewy body structure, featuring shadowy coloration, shadowy highlights, dramatic chiaroscuro lighting, deep shadows, ominous atmosphere, foreboding presence, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, H.R. Giger style, biomechanical aesthetic, in style of Ethereal surreal nature spirit, translucent glowing veins, midnight cosmic void, pale icy blue glow, dreamlike composition, impossible architecture",
+      "negative_prompt": "unrealistic, signature, malformed fingers, amateur, simple, underexposed, jpeg artifacts, morbid, worst quality, low quality, watermark, basic, low resolution, overexposed, too many fingers, disfigured, malformed hands, oversaturated"
+    },
+    "1_3": {
+      "personalization_seed_id": 1,
+      "input_seed_id": "3",
+      "prompt": "a advanced cybernetic extraterrestrial alien creature with biomechanical textures, glossy black exoskeleton, chitinous armor, elongated head, sinewy body structure, featuring shadowy coloration, shadowy highlights, dramatic chiaroscuro lighting, deep shadows, ominous atmosphere, foreboding presence, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, H.R. Giger style, biomechanical aesthetic, in style of Biomechanical cyborg, skeletal metal frame, neon cybernetic glow, dystopian lab background",
+      "negative_prompt": "duplicate, mutated, cropped, text, distorted, watermark, malformed fingers, out of frame, amateur, basic, cartoon, worst quality, ugly, unrealistic, duplicated body parts, poorly drawn, disfigured, extra fingers"
+    },
+    "1_4": {
+      "personalization_seed_id": 1,
+      "input_seed_id": "4",
+      "prompt": "a advanced cybernetic extraterrestrial alien creature with biomechanical textures, glossy black exoskeleton, chitinous armor, elongated head, sinewy body structure, featuring shadowy coloration, shadowy highlights, dramatic chiaroscuro lighting, deep shadows, ominous atmosphere, foreboding presence, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, H.R. Giger style, biomechanical aesthetic, in style of Retro tokusatsu kaijin, fork head, red cape, urban street, 1970s aesthetic for tokusatsu-style monster designs",
+      "negative_prompt": "unrealistic, disfigured, ugly, duplicated body parts, watermark, malformed fingers, malformed hands, low quality, blurry, bad lighting, missing limbs, low detail, poorly drawn, cropped, oversaturated, simple, anime, mutated"
+    },
+    "1_5": {
+      "personalization_seed_id": 1,
+      "input_seed_id": "5",
+      "prompt": "a advanced cybernetic extraterrestrial alien creature with biomechanical textures, glossy black exoskeleton, chitinous armor, elongated head, sinewy body structure, featuring shadowy coloration, shadowy highlights, dramatic chiaroscuro lighting, deep shadows, ominous atmosphere, foreboding presence, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, H.R. Giger style, biomechanical aesthetic, in style of Horror creature, insectoid limbs, dark dungeon, decaying flesh, gothic atmosphere, macabre details",
+      "negative_prompt": "ugly, fused fingers, disfigured, simple, low resolution, duplicate, amateur, underexposed, deformed, extra limbs, basic, unprofessional, too many fingers, rough, jpeg artifacts, signature, cartoon, watermark"
+    },
+    "1_6": {
+      "personalization_seed_id": 1,
+      "input_seed_id": "6",
+      "prompt": "a advanced cybernetic extraterrestrial alien creature with biomechanical textures, glossy black exoskeleton, chitinous armor, elongated head, sinewy body structure, featuring shadowy coloration, shadowy highlights, dramatic chiaroscuro lighting, deep shadows, ominous atmosphere, foreboding presence, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, H.R. Giger style, biomechanical aesthetic, in style of Cute plush monster, pastel jelly texture, candy forest background, soft lighting",
+      "negative_prompt": "extra fingers, malformed hands, low resolution, missing limbs, underexposed, anime, poorly drawn, worst quality, bad anatomy, extra limbs, cropped, fused fingers, watermark, amateur, signature, oversaturated, low detail, too many fingers"
+    },
+    "1_7": {
+      "personalization_seed_id": 1,
+      "input_seed_id": "7",
+      "prompt": "a advanced cybernetic extraterrestrial alien creature with biomechanical textures, glossy black exoskeleton, chitinous armor, elongated head, sinewy body structure, featuring shadowy coloration, shadowy highlights, dramatic chiaroscuro lighting, deep shadows, ominous atmosphere, foreboding presence, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, H.R. Giger style, biomechanical aesthetic, in style of Cute surreal doll, baby-like head, soft sculpture texture, pastel colors, retro toy background, absurd and humorous anthropomorphic dolls, dreamlike composition, impossible architecture",
+      "negative_prompt": "distorted, cropped, text, extra limbs, ugly, oversaturated, deformed, amateur, signature, cartoon, malformed hands, duplicated body parts, unrealistic, malformed fingers, jpeg artifacts, low detail, low resolution, rough"
+    },
+    "1_8": {
+      "personalization_seed_id": 1,
+      "input_seed_id": "8",
+      "prompt": "a advanced cybernetic extraterrestrial alien creature with biomechanical textures, glossy black exoskeleton, chitinous armor, elongated head, sinewy body structure, featuring shadowy coloration, shadowy highlights, dramatic chiaroscuro lighting, deep shadows, ominous atmosphere, foreboding presence, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, H.R. Giger style, biomechanical aesthetic, in style of Alien zombie creature, decaying flesh, insectoid limbs, dark dungeon, glowing green organs",
+      "negative_prompt": "unrealistic, malformed hands, cropped, fused fingers, anime, simple, oversaturated, rough, out of frame, too many fingers, duplicated body parts, poorly drawn, disfigured, missing limbs, underexposed, extra fingers, low detail, low quality"
+    },
+    "1_9": {
+      "personalization_seed_id": 1,
+      "input_seed_id": "9",
+      "prompt": "a advanced cybernetic extraterrestrial alien creature with biomechanical textures, glossy black exoskeleton, chitinous armor, elongated head, sinewy body structure, featuring shadowy coloration, shadowy highlights, dramatic chiaroscuro lighting, deep shadows, ominous atmosphere, foreboding presence, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, H.R. Giger style, biomechanical aesthetic, in style of Fused abstract creature, pineapple - monkey hybrid, vibrant city street background, bright colors",
+      "negative_prompt": "poorly drawn, missing limbs, cartoon, simple, too many fingers, blurry, basic, extra fingers, morbid, deformed, fused fingers, overexposed, low resolution, disfigured, cropped, anime, oversaturated, bad anatomy"
+    },
+    "2_10": {
+      "personalization_seed_id": 2,
+      "input_seed_id": "10",
+      "prompt": "a mysterious otherworldly cybernetic biomechanical entity with metallic implants, exposed circuitry, hydraulic joints, cybernetic appendages, mechanical vertebrae, featuring glowing coloration, glowing highlights, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, H.R. Giger style, biomechanical aesthetic, in style of Pixel - style monster, pixel city ruins background, limited color palette, crisp pixel art, retro gaming aesthetic",
+      "negative_prompt": "extra fingers, underexposed, malformed hands, blurry, disconnected limbs, low detail, oversaturated, signature, duplicate, duplicated body parts, disfigured, bad lighting, amateur, fused fingers, unrealistic, poorly drawn, ugly, jpeg artifacts"
+    },
+    "2_1": {
+      "personalization_seed_id": 2,
+      "input_seed_id": "1",
+      "prompt": "a mysterious otherworldly cybernetic biomechanical entity with metallic implants, exposed circuitry, hydraulic joints, cybernetic appendages, mechanical vertebrae, featuring glowing coloration, glowing highlights, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, H.R. Giger style, biomechanical aesthetic, in style of Ukiyo-e yokai, torii/paper lanterns, fox tails/demon masks, deep red/indigo, vintage woodblock texture., detailed hand-carved lines, aged paper texture",
+      "negative_prompt": "amateur, ugly, malformed hands, out of frame, overexposed, duplicate, underexposed, extra limbs, low quality, anime, deformed, malformed fingers, bad lighting, low detail, distorted, unprofessional, rough, simple"
+    },
+    "2_2": {
+      "personalization_seed_id": 2,
+      "input_seed_id": "2",
+      "prompt": "a mysterious otherworldly cybernetic biomechanical entity with metallic implants, exposed circuitry, hydraulic joints, cybernetic appendages, mechanical vertebrae, featuring glowing coloration, glowing highlights, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, H.R. Giger style, biomechanical aesthetic, in style of Ethereal surreal nature spirit, translucent glowing veins, midnight cosmic void, pale icy blue glow, dreamlike composition, impossible architecture",
+      "negative_prompt": "anime, extra limbs, overexposed, morbid, unrealistic, ugly, watermark, jpeg artifacts, malformed fingers, disconnected limbs, out of frame, duplicated body parts, oversaturated, low quality, amateur, malformed hands, unprofessional, distorted"
+    },
+    "2_3": {
+      "personalization_seed_id": 2,
+      "input_seed_id": "3",
+      "prompt": "a mysterious otherworldly cybernetic biomechanical entity with metallic implants, exposed circuitry, hydraulic joints, cybernetic appendages, mechanical vertebrae, featuring glowing coloration, glowing highlights, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, H.R. Giger style, biomechanical aesthetic, in style of Biomechanical cyborg, skeletal metal frame, neon cybernetic glow, dystopian lab background",
+      "negative_prompt": "low detail, bad lighting, disfigured, amateur, text, anime, underexposed, ugly, watermark, extra fingers, signature, too many fingers, unprofessional, blurry, cropped, deformed, cartoon, missing limbs"
+    },
+    "2_4": {
+      "personalization_seed_id": 2,
+      "input_seed_id": "4",
+      "prompt": "a mysterious otherworldly cybernetic biomechanical entity with metallic implants, exposed circuitry, hydraulic joints, cybernetic appendages, mechanical vertebrae, featuring glowing coloration, glowing highlights, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, H.R. Giger style, biomechanical aesthetic, in style of Retro tokusatsu kaijin, fork head, red cape, urban street, 1970s aesthetic for tokusatsu-style monster designs",
+      "negative_prompt": "poorly drawn, disfigured, amateur, missing limbs, oversaturated, low detail, disconnected limbs, out of frame, deformed, basic, duplicated body parts, unprofessional, cropped, low quality, malformed hands, unrealistic, overexposed, distorted"
+    },
+    "2_5": {
+      "personalization_seed_id": 2,
+      "input_seed_id": "5",
+      "prompt": "a mysterious otherworldly cybernetic biomechanical entity with metallic implants, exposed circuitry, hydraulic joints, cybernetic appendages, mechanical vertebrae, featuring glowing coloration, glowing highlights, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, H.R. Giger style, biomechanical aesthetic, in style of Horror creature, insectoid limbs, dark dungeon, decaying flesh, gothic atmosphere, macabre details",
+      "negative_prompt": "bad lighting, deformed, duplicated body parts, basic, unrealistic, text, simple, disconnected limbs, amateur, rough, cropped, anime, low quality, bad anatomy, watermark, disfigured, worst quality, ugly"
+    },
+    "2_6": {
+      "personalization_seed_id": 2,
+      "input_seed_id": "6",
+      "prompt": "a mysterious otherworldly cybernetic biomechanical entity with metallic implants, exposed circuitry, hydraulic joints, cybernetic appendages, mechanical vertebrae, featuring glowing coloration, glowing highlights, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, H.R. Giger style, biomechanical aesthetic, in style of Cute plush monster, pastel jelly texture, candy forest background, soft lighting",
+      "negative_prompt": "deformed, rough, ugly, underexposed, duplicated body parts, jpeg artifacts, watermark, low resolution, extra limbs, overexposed, bad anatomy, anime, unprofessional, mutated, extra fingers, malformed hands, poorly drawn, signature"
+    },
+    "2_7": {
+      "personalization_seed_id": 2,
+      "input_seed_id": "7",
+      "prompt": "a mysterious otherworldly cybernetic biomechanical entity with metallic implants, exposed circuitry, hydraulic joints, cybernetic appendages, mechanical vertebrae, featuring glowing coloration, glowing highlights, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, H.R. Giger style, biomechanical aesthetic, in style of Cute surreal doll, baby-like head, soft sculpture texture, pastel colors, retro toy background, absurd and humorous anthropomorphic dolls, dreamlike composition, impossible architecture",
+      "negative_prompt": "out of frame, low detail, jpeg artifacts, deformed, ugly, morbid, missing limbs, text, cropped, fused fingers, blurry, bad anatomy, rough, low resolution, worst quality, unprofessional, malformed fingers, bad lighting"
+    },
+    "2_8": {
+      "personalization_seed_id": 2,
+      "input_seed_id": "8",
+      "prompt": "a mysterious otherworldly cybernetic biomechanical entity with metallic implants, exposed circuitry, hydraulic joints, cybernetic appendages, mechanical vertebrae, featuring glowing coloration, glowing highlights, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, H.R. Giger style, biomechanical aesthetic, in style of Alien zombie creature, decaying flesh, insectoid limbs, dark dungeon, glowing green organs",
+      "negative_prompt": "duplicated body parts, poorly drawn, text, extra limbs, disconnected limbs, too many fingers, underexposed, amateur, low detail, oversaturated, deformed, unprofessional, out of frame, fused fingers, malformed hands, blurry, distorted, morbid"
+    },
+    "2_9": {
+      "personalization_seed_id": 2,
+      "input_seed_id": "9",
+      "prompt": "a mysterious otherworldly cybernetic biomechanical entity with metallic implants, exposed circuitry, hydraulic joints, cybernetic appendages, mechanical vertebrae, featuring glowing coloration, glowing highlights, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, H.R. Giger style, biomechanical aesthetic, in style of Fused abstract creature, pineapple - monkey hybrid, vibrant city street background, bright colors",
+      "negative_prompt": "unprofessional, blurry, malformed hands, extra fingers, out of frame, mutated, disfigured, text, anime, low detail, cartoon, morbid, duplicate, extra limbs, basic, duplicated body parts, bad lighting, worst quality"
+    },
+    "3_10": {
+      "personalization_seed_id": 3,
+      "input_seed_id": "10",
+      "prompt": "a mystical ethereal unique heptapod creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring cool coloration, cool highlights, mystical illumination, soft emanation, mystical ambiance, enchanted aura, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, surreal art style, fantasy illustration, in style of Pixel - style monster, pixel city ruins background, limited color palette, crisp pixel art, retro gaming aesthetic",
+      "negative_prompt": "oversaturated, simple, anime, out of frame, watermark, blurry, malformed hands, extra fingers, basic, extra limbs, duplicate, disfigured, low resolution, unrealistic, jpeg artifacts, missing limbs, overexposed, ugly"
+    },
+    "3_1": {
+      "personalization_seed_id": 3,
+      "input_seed_id": "1",
+      "prompt": "a mystical ethereal unique heptapod creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring cool coloration, cool highlights, mystical illumination, soft emanation, mystical ambiance, enchanted aura, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, surreal art style, fantasy illustration, in style of Ukiyo-e yokai, torii/paper lanterns, fox tails/demon masks, deep red/indigo, vintage woodblock texture., detailed hand-carved lines, aged paper texture",
+      "negative_prompt": "simple, basic, fused fingers, anime, cropped, worst quality, unrealistic, ugly, malformed fingers, watermark, malformed hands, disconnected limbs, low quality, disfigured, extra fingers, amateur, blurry, distorted"
+    },
+    "3_2": {
+      "personalization_seed_id": 3,
+      "input_seed_id": "2",
+      "prompt": "a mystical ethereal unique heptapod creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring cool coloration, cool highlights, mystical illumination, soft emanation, mystical ambiance, enchanted aura, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, surreal art style, fantasy illustration, in style of Ethereal surreal nature spirit, translucent glowing veins, midnight cosmic void, pale icy blue glow, dreamlike composition, impossible architecture",
+      "negative_prompt": "watermark, underexposed, unrealistic, missing limbs, mutated, low detail, overexposed, duplicated body parts, jpeg artifacts, malformed hands, fused fingers, extra fingers, text, extra limbs, bad anatomy, cartoon, distorted, worst quality"
+    },
+    "3_3": {
+      "personalization_seed_id": 3,
+      "input_seed_id": "3",
+      "prompt": "a mystical ethereal unique heptapod creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring cool coloration, cool highlights, mystical illumination, soft emanation, mystical ambiance, enchanted aura, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, surreal art style, fantasy illustration, in style of Biomechanical cyborg, skeletal metal frame, neon cybernetic glow, dystopian lab background",
+      "negative_prompt": "low detail, extra fingers, morbid, disfigured, fused fingers, bad anatomy, watermark, deformed, duplicated body parts, malformed fingers, overexposed, blurry, poorly drawn, jpeg artifacts, amateur, disconnected limbs, unprofessional, rough"
+    },
+    "3_4": {
+      "personalization_seed_id": 3,
+      "input_seed_id": "4",
+      "prompt": "a mystical ethereal unique heptapod creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring cool coloration, cool highlights, mystical illumination, soft emanation, mystical ambiance, enchanted aura, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, surreal art style, fantasy illustration, in style of Retro tokusatsu kaijin, fork head, red cape, urban street, 1970s aesthetic for tokusatsu-style monster designs",
+      "negative_prompt": "deformed, amateur, poorly drawn, unprofessional, underexposed, anime, signature, extra fingers, malformed fingers, blurry, rough, low detail, fused fingers, morbid, simple, ugly, disfigured, distorted"
+    },
+    "3_5": {
+      "personalization_seed_id": 3,
+      "input_seed_id": "5",
+      "prompt": "a mystical ethereal unique heptapod creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring cool coloration, cool highlights, mystical illumination, soft emanation, mystical ambiance, enchanted aura, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, surreal art style, fantasy illustration, in style of Horror creature, insectoid limbs, dark dungeon, decaying flesh, gothic atmosphere, macabre details",
+      "negative_prompt": "oversaturated, cartoon, duplicate, rough, bad lighting, cropped, disconnected limbs, watermark, bad anatomy, extra limbs, overexposed, low quality, poorly drawn, morbid, out of frame, signature, unprofessional, unrealistic"
+    },
+    "3_6": {
+      "personalization_seed_id": 3,
+      "input_seed_id": "6",
+      "prompt": "a mystical ethereal unique heptapod creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring cool coloration, cool highlights, mystical illumination, soft emanation, mystical ambiance, enchanted aura, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, surreal art style, fantasy illustration, in style of Cute plush monster, pastel jelly texture, candy forest background, soft lighting",
+      "negative_prompt": "oversaturated, deformed, mutated, duplicate, basic, duplicated body parts, anime, extra limbs, malformed fingers, cartoon, extra fingers, unprofessional, overexposed, morbid, signature, worst quality, out of frame, low quality"
+    },
+    "3_7": {
+      "personalization_seed_id": 3,
+      "input_seed_id": "7",
+      "prompt": "a mystical ethereal unique heptapod creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring cool coloration, cool highlights, mystical illumination, soft emanation, mystical ambiance, enchanted aura, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, surreal art style, fantasy illustration, in style of Cute surreal doll, baby-like head, soft sculpture texture, pastel colors, retro toy background, absurd and humorous anthropomorphic dolls, dreamlike composition, impossible architecture",
+      "negative_prompt": "bad lighting, oversaturated, malformed hands, extra fingers, underexposed, duplicate, blurry, distorted, low detail, worst quality, ugly, malformed fingers, disfigured, disconnected limbs, text, morbid, low resolution, fused fingers"
+    },
+    "3_8": {
+      "personalization_seed_id": 3,
+      "input_seed_id": "8",
+      "prompt": "a mystical ethereal unique heptapod creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring cool coloration, cool highlights, mystical illumination, soft emanation, mystical ambiance, enchanted aura, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, surreal art style, fantasy illustration, in style of Alien zombie creature, decaying flesh, insectoid limbs, dark dungeon, glowing green organs",
+      "negative_prompt": "low resolution, oversaturated, extra fingers, duplicated body parts, poorly drawn, too many fingers, watermark, underexposed, jpeg artifacts, low detail, malformed fingers, ugly, deformed, malformed hands, cropped, duplicate, missing limbs, worst quality"
+    },
+    "3_9": {
+      "personalization_seed_id": 3,
+      "input_seed_id": "9",
+      "prompt": "a mystical ethereal unique heptapod creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring cool coloration, cool highlights, mystical illumination, soft emanation, mystical ambiance, enchanted aura, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, surreal art style, fantasy illustration, in style of Fused abstract creature, pineapple - monkey hybrid, vibrant city street background, bright colors",
+      "negative_prompt": "rough, malformed hands, missing limbs, text, mutated, low detail, extra limbs, poorly drawn, deformed, malformed fingers, bad lighting, unprofessional, duplicated body parts, disfigured, amateur, underexposed, fused fingers, basic"
+    },
+    "4_10": {
+      "personalization_seed_id": 4,
+      "input_seed_id": "10",
+      "prompt": "a mysterious otherworldly unique dystopian combo creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring vibrant coloration, vibrant highlights, dramatic chiaroscuro lighting, deep shadows, ominous atmosphere, foreboding presence, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Pixel - style monster, pixel city ruins background, limited color palette, crisp pixel art, retro gaming aesthetic",
+      "negative_prompt": "duplicated body parts, extra fingers, underexposed, low detail, poorly drawn, jpeg artifacts, unprofessional, basic, cartoon, mutated, out of frame, amateur, duplicate, morbid, anime, low resolution, too many fingers, worst quality"
+    },
+    "4_1": {
+      "personalization_seed_id": 4,
+      "input_seed_id": "1",
+      "prompt": "a mysterious otherworldly unique dystopian combo creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring vibrant coloration, vibrant highlights, dramatic chiaroscuro lighting, deep shadows, ominous atmosphere, foreboding presence, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Ukiyo-e yokai, torii/paper lanterns, fox tails/demon masks, deep red/indigo, vintage woodblock texture., detailed hand-carved lines, aged paper texture",
+      "negative_prompt": "simple, morbid, extra limbs, low quality, mutated, worst quality, anime, bad anatomy, extra fingers, bad lighting, jpeg artifacts, duplicated body parts, blurry, low resolution, cartoon, deformed, signature, fused fingers"
+    },
+    "4_2": {
+      "personalization_seed_id": 4,
+      "input_seed_id": "2",
+      "prompt": "a mysterious otherworldly unique dystopian combo creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring vibrant coloration, vibrant highlights, dramatic chiaroscuro lighting, deep shadows, ominous atmosphere, foreboding presence, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Ethereal surreal nature spirit, translucent glowing veins, midnight cosmic void, pale icy blue glow, dreamlike composition, impossible architecture",
+      "negative_prompt": "overexposed, rough, text, bad lighting, cropped, disfigured, underexposed, extra fingers, poorly drawn, unrealistic, too many fingers, mutated, ugly, fused fingers, duplicated body parts, duplicate, low quality, basic"
+    },
+    "4_3": {
+      "personalization_seed_id": 4,
+      "input_seed_id": "3",
+      "prompt": "a mysterious otherworldly unique dystopian combo creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring vibrant coloration, vibrant highlights, dramatic chiaroscuro lighting, deep shadows, ominous atmosphere, foreboding presence, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Biomechanical cyborg, skeletal metal frame, neon cybernetic glow, dystopian lab background",
+      "negative_prompt": "low quality, duplicated body parts, bad lighting, unrealistic, unprofessional, watermark, low detail, malformed hands, basic, too many fingers, anime, out of frame, disconnected limbs, bad anatomy, cropped, extra limbs, duplicate, oversaturated"
+    },
+    "4_4": {
+      "personalization_seed_id": 4,
+      "input_seed_id": "4",
+      "prompt": "a mysterious otherworldly unique dystopian combo creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring vibrant coloration, vibrant highlights, dramatic chiaroscuro lighting, deep shadows, ominous atmosphere, foreboding presence, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Retro tokusatsu kaijin, fork head, red cape, urban street, 1970s aesthetic for tokusatsu-style monster designs",
+      "negative_prompt": "too many fingers, extra limbs, malformed hands, watermark, mutated, jpeg artifacts, duplicate, basic, simple, poorly drawn, out of frame, low detail, disfigured, low resolution, cartoon, underexposed, blurry, cropped"
+    },
+    "4_5": {
+      "personalization_seed_id": 4,
+      "input_seed_id": "5",
+      "prompt": "a mysterious otherworldly unique dystopian combo creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring vibrant coloration, vibrant highlights, dramatic chiaroscuro lighting, deep shadows, ominous atmosphere, foreboding presence, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Horror creature, insectoid limbs, dark dungeon, decaying flesh, gothic atmosphere, macabre details",
+      "negative_prompt": "disfigured, fused fingers, oversaturated, jpeg artifacts, anime, extra limbs, malformed fingers, rough, disconnected limbs, bad lighting, watermark, simple, malformed hands, cropped, unrealistic, worst quality, overexposed, ugly"
+    },
+    "4_6": {
+      "personalization_seed_id": 4,
+      "input_seed_id": "6",
+      "prompt": "a mysterious otherworldly unique dystopian combo creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring vibrant coloration, vibrant highlights, dramatic chiaroscuro lighting, deep shadows, ominous atmosphere, foreboding presence, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Cute plush monster, pastel jelly texture, candy forest background, soft lighting",
+      "negative_prompt": "poorly drawn, text, disconnected limbs, fused fingers, underexposed, too many fingers, bad anatomy, morbid, basic, missing limbs, malformed fingers, low resolution, low quality, duplicate, bad lighting, extra fingers, signature, worst quality"
+    },
+    "4_7": {
+      "personalization_seed_id": 4,
+      "input_seed_id": "7",
+      "prompt": "a mysterious otherworldly unique dystopian combo creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring vibrant coloration, vibrant highlights, dramatic chiaroscuro lighting, deep shadows, ominous atmosphere, foreboding presence, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Cute surreal doll, baby-like head, soft sculpture texture, pastel colors, retro toy background, absurd and humorous anthropomorphic dolls, dreamlike composition, impossible architecture",
+      "negative_prompt": "rough, low quality, low detail, malformed fingers, cartoon, duplicate, deformed, watermark, overexposed, extra fingers, mutated, underexposed, signature, amateur, disfigured, distorted, simple, disconnected limbs"
+    },
+    "4_8": {
+      "personalization_seed_id": 4,
+      "input_seed_id": "8",
+      "prompt": "a mysterious otherworldly unique dystopian combo creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring vibrant coloration, vibrant highlights, dramatic chiaroscuro lighting, deep shadows, ominous atmosphere, foreboding presence, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Alien zombie creature, decaying flesh, insectoid limbs, dark dungeon, glowing green organs",
+      "negative_prompt": "malformed hands, poorly drawn, blurry, amateur, low detail, duplicate, deformed, distorted, morbid, oversaturated, fused fingers, text, simple, extra limbs, disconnected limbs, unprofessional, anime, overexposed"
+    },
+    "4_9": {
+      "personalization_seed_id": 4,
+      "input_seed_id": "9",
+      "prompt": "a mysterious otherworldly unique dystopian combo creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring vibrant coloration, vibrant highlights, dramatic chiaroscuro lighting, deep shadows, ominous atmosphere, foreboding presence, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Fused abstract creature, pineapple - monkey hybrid, vibrant city street background, bright colors",
+      "negative_prompt": "unrealistic, anime, text, rough, cropped, low detail, fused fingers, bad lighting, unprofessional, simple, morbid, overexposed, bad anatomy, signature, missing limbs, extra limbs, poorly drawn, malformed fingers"
+    },
+    "5_10": {
+      "personalization_seed_id": 5,
+      "input_seed_id": "10",
+      "prompt": "a mysterious otherworldly bestial monstrous being with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring shadowy coloration, shadowy highlights, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Pixel - style monster, pixel city ruins background, limited color palette, crisp pixel art, retro gaming aesthetic",
+      "negative_prompt": "disconnected limbs, poorly drawn, oversaturated, morbid, deformed, underexposed, amateur, bad lighting, duplicate, blurry, simple, malformed fingers, cropped, fused fingers, duplicated body parts, ugly, low detail, watermark"
+    },
+    "5_1": {
+      "personalization_seed_id": 5,
+      "input_seed_id": "1",
+      "prompt": "a mysterious otherworldly bestial monstrous being with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring shadowy coloration, shadowy highlights, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Ukiyo-e yokai, torii/paper lanterns, fox tails/demon masks, deep red/indigo, vintage woodblock texture., detailed hand-carved lines, aged paper texture",
+      "negative_prompt": "oversaturated, extra fingers, unrealistic, mutated, poorly drawn, ugly, missing limbs, signature, too many fingers, deformed, blurry, basic, anime, underexposed, bad lighting, cropped, rough, disfigured"
+    },
+    "5_2": {
+      "personalization_seed_id": 5,
+      "input_seed_id": "2",
+      "prompt": "a mysterious otherworldly bestial monstrous being with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring shadowy coloration, shadowy highlights, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Ethereal surreal nature spirit, translucent glowing veins, midnight cosmic void, pale icy blue glow, dreamlike composition, impossible architecture",
+      "negative_prompt": "overexposed, poorly drawn, deformed, text, rough, watermark, too many fingers, low quality, cropped, out of frame, jpeg artifacts, cartoon, worst quality, morbid, disfigured, disconnected limbs, anime, blurry"
+    },
+    "5_3": {
+      "personalization_seed_id": 5,
+      "input_seed_id": "3",
+      "prompt": "a mysterious otherworldly bestial monstrous being with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring shadowy coloration, shadowy highlights, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Biomechanical cyborg, skeletal metal frame, neon cybernetic glow, dystopian lab background",
+      "negative_prompt": "out of frame, duplicated body parts, malformed hands, poorly drawn, underexposed, anime, watermark, extra limbs, unprofessional, morbid, distorted, worst quality, rough, bad lighting, jpeg artifacts, mutated, disconnected limbs, unrealistic"
+    },
+    "5_4": {
+      "personalization_seed_id": 5,
+      "input_seed_id": "4",
+      "prompt": "a mysterious otherworldly bestial monstrous being with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring shadowy coloration, shadowy highlights, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Retro tokusatsu kaijin, fork head, red cape, urban street, 1970s aesthetic for tokusatsu-style monster designs",
+      "negative_prompt": "low quality, ugly, low resolution, jpeg artifacts, simple, malformed fingers, duplicated body parts, rough, bad anatomy, watermark, underexposed, extra limbs, text, distorted, oversaturated, fused fingers, unprofessional, unrealistic"
+    },
+    "5_5": {
+      "personalization_seed_id": 5,
+      "input_seed_id": "5",
+      "prompt": "a mysterious otherworldly bestial monstrous being with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring shadowy coloration, shadowy highlights, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Horror creature, insectoid limbs, dark dungeon, decaying flesh, gothic atmosphere, macabre details",
+      "negative_prompt": "anime, disconnected limbs, watermark, text, jpeg artifacts, disfigured, fused fingers, malformed fingers, blurry, worst quality, duplicated body parts, rough, duplicate, signature, cropped, unprofessional, basic, oversaturated"
+    },
+    "5_6": {
+      "personalization_seed_id": 5,
+      "input_seed_id": "6",
+      "prompt": "a mysterious otherworldly bestial monstrous being with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring shadowy coloration, shadowy highlights, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Cute plush monster, pastel jelly texture, candy forest background, soft lighting",
+      "negative_prompt": "duplicated body parts, disfigured, amateur, simple, signature, bad anatomy, text, worst quality, blurry, cropped, deformed, ugly, missing limbs, poorly drawn, watermark, oversaturated, unprofessional, basic"
+    },
+    "5_7": {
+      "personalization_seed_id": 5,
+      "input_seed_id": "7",
+      "prompt": "a mysterious otherworldly bestial monstrous being with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring shadowy coloration, shadowy highlights, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Cute surreal doll, baby-like head, soft sculpture texture, pastel colors, retro toy background, absurd and humorous anthropomorphic dolls, dreamlike composition, impossible architecture",
+      "negative_prompt": "deformed, cropped, distorted, simple, unprofessional, bad lighting, disconnected limbs, duplicate, signature, extra limbs, too many fingers, malformed fingers, low resolution, overexposed, bad anatomy, poorly drawn, extra fingers, worst quality"
+    },
+    "5_8": {
+      "personalization_seed_id": 5,
+      "input_seed_id": "8",
+      "prompt": "a mysterious otherworldly bestial monstrous being with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring shadowy coloration, shadowy highlights, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Alien zombie creature, decaying flesh, insectoid limbs, dark dungeon, glowing green organs",
+      "negative_prompt": "mutated, amateur, too many fingers, duplicate, rough, disfigured, deformed, low detail, extra limbs, overexposed, cartoon, morbid, out of frame, poorly drawn, jpeg artifacts, blurry, missing limbs, ugly"
+    },
+    "5_9": {
+      "personalization_seed_id": 5,
+      "input_seed_id": "9",
+      "prompt": "a mysterious otherworldly bestial monstrous being with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring shadowy coloration, shadowy highlights, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Fused abstract creature, pineapple - monkey hybrid, vibrant city street background, bright colors",
+      "negative_prompt": "extra fingers, underexposed, too many fingers, mutated, text, oversaturated, watermark, disfigured, unprofessional, duplicate, duplicated body parts, extra limbs, fused fingers, signature, amateur, deformed, cartoon, missing limbs"
+    },
+    "6_10": {
+      "personalization_seed_id": 6,
+      "input_seed_id": "10",
+      "prompt": "a menacing ominous unique clowns creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring intense coloration, intense highlights, dramatic chiaroscuro lighting, deep shadows, ominous atmosphere, foreboding presence, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Pixel - style monster, pixel city ruins background, limited color palette, crisp pixel art, retro gaming aesthetic",
+      "negative_prompt": "mutated, blurry, disfigured, poorly drawn, missing limbs, underexposed, duplicated body parts, bad anatomy, morbid, anime, distorted, deformed, extra limbs, bad lighting, fused fingers, rough, extra fingers, watermark"
+    },
+    "6_1": {
+      "personalization_seed_id": 6,
+      "input_seed_id": "1",
+      "prompt": "a menacing ominous unique clowns creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring intense coloration, intense highlights, dramatic chiaroscuro lighting, deep shadows, ominous atmosphere, foreboding presence, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Ukiyo-e yokai, torii/paper lanterns, fox tails/demon masks, deep red/indigo, vintage woodblock texture., detailed hand-carved lines, aged paper texture",
+      "negative_prompt": "worst quality, cartoon, distorted, missing limbs, signature, deformed, amateur, anime, blurry, duplicate, unprofessional, jpeg artifacts, simple, low detail, unrealistic, bad anatomy, poorly drawn, fused fingers"
+    },
+    "6_2": {
+      "personalization_seed_id": 6,
+      "input_seed_id": "2",
+      "prompt": "a menacing ominous unique clowns creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring intense coloration, intense highlights, dramatic chiaroscuro lighting, deep shadows, ominous atmosphere, foreboding presence, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Ethereal surreal nature spirit, translucent glowing veins, midnight cosmic void, pale icy blue glow, dreamlike composition, impossible architecture",
+      "negative_prompt": "oversaturated, deformed, unprofessional, extra limbs, watermark, worst quality, low resolution, simple, low quality, cropped, anime, disconnected limbs, duplicate, out of frame, fused fingers, mutated, disfigured, unrealistic"
+    },
+    "6_3": {
+      "personalization_seed_id": 6,
+      "input_seed_id": "3",
+      "prompt": "a menacing ominous unique clowns creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring intense coloration, intense highlights, dramatic chiaroscuro lighting, deep shadows, ominous atmosphere, foreboding presence, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Biomechanical cyborg, skeletal metal frame, neon cybernetic glow, dystopian lab background",
+      "negative_prompt": "watermark, rough, poorly drawn, duplicate, unprofessional, overexposed, ugly, distorted, mutated, bad lighting, malformed fingers, underexposed, unrealistic, signature, amateur, too many fingers, cropped, bad anatomy"
+    },
+    "6_4": {
+      "personalization_seed_id": 6,
+      "input_seed_id": "4",
+      "prompt": "a menacing ominous unique clowns creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring intense coloration, intense highlights, dramatic chiaroscuro lighting, deep shadows, ominous atmosphere, foreboding presence, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Retro tokusatsu kaijin, fork head, red cape, urban street, 1970s aesthetic for tokusatsu-style monster designs",
+      "negative_prompt": "distorted, watermark, fused fingers, amateur, worst quality, oversaturated, out of frame, unrealistic, simple, low detail, ugly, extra fingers, bad anatomy, unprofessional, rough, disfigured, cartoon, extra limbs"
+    },
+    "6_5": {
+      "personalization_seed_id": 6,
+      "input_seed_id": "5",
+      "prompt": "a menacing ominous unique clowns creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring intense coloration, intense highlights, dramatic chiaroscuro lighting, deep shadows, ominous atmosphere, foreboding presence, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Horror creature, insectoid limbs, dark dungeon, decaying flesh, gothic atmosphere, macabre details",
+      "negative_prompt": "text, worst quality, distorted, malformed hands, fused fingers, cartoon, duplicated body parts, jpeg artifacts, deformed, oversaturated, bad anatomy, basic, malformed fingers, blurry, missing limbs, watermark, bad lighting, ugly"
+    },
+    "6_6": {
+      "personalization_seed_id": 6,
+      "input_seed_id": "6",
+      "prompt": "a menacing ominous unique clowns creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring intense coloration, intense highlights, dramatic chiaroscuro lighting, deep shadows, ominous atmosphere, foreboding presence, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Cute plush monster, pastel jelly texture, candy forest background, soft lighting",
+      "negative_prompt": "duplicate, deformed, jpeg artifacts, too many fingers, anime, low resolution, malformed fingers, fused fingers, unrealistic, duplicated body parts, signature, overexposed, malformed hands, low quality, amateur, poorly drawn, worst quality, oversaturated"
+    },
+    "6_7": {
+      "personalization_seed_id": 6,
+      "input_seed_id": "7",
+      "prompt": "a menacing ominous unique clowns creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring intense coloration, intense highlights, dramatic chiaroscuro lighting, deep shadows, ominous atmosphere, foreboding presence, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Cute surreal doll, baby-like head, soft sculpture texture, pastel colors, retro toy background, absurd and humorous anthropomorphic dolls, dreamlike composition, impossible architecture",
+      "negative_prompt": "duplicate, cropped, mutated, overexposed, cartoon, too many fingers, signature, jpeg artifacts, watermark, out of frame, disfigured, basic, low quality, extra limbs, deformed, amateur, morbid, distorted"
+    },
+    "6_8": {
+      "personalization_seed_id": 6,
+      "input_seed_id": "8",
+      "prompt": "a menacing ominous unique clowns creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring intense coloration, intense highlights, dramatic chiaroscuro lighting, deep shadows, ominous atmosphere, foreboding presence, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Alien zombie creature, decaying flesh, insectoid limbs, dark dungeon, glowing green organs",
+      "negative_prompt": "unrealistic, watermark, blurry, duplicate, malformed hands, worst quality, low detail, low resolution, disfigured, fused fingers, malformed fingers, deformed, extra limbs, duplicated body parts, jpeg artifacts, disconnected limbs, cropped, bad lighting"
+    },
+    "6_9": {
+      "personalization_seed_id": 6,
+      "input_seed_id": "9",
+      "prompt": "a menacing ominous unique clowns creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring intense coloration, intense highlights, dramatic chiaroscuro lighting, deep shadows, ominous atmosphere, foreboding presence, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Fused abstract creature, pineapple - monkey hybrid, vibrant city street background, bright colors",
+      "negative_prompt": "low detail, anime, poorly drawn, cropped, oversaturated, signature, too many fingers, duplicate, malformed fingers, unprofessional, underexposed, mutated, disfigured, overexposed, deformed, disconnected limbs, rough, bad anatomy"
+    },
+    "7_10": {
+      "personalization_seed_id": 7,
+      "input_seed_id": "10",
+      "prompt": "a mysterious otherworldly unique geometric constructs creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring deep azure coloration, iridescent blue tones, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Pixel - style monster, pixel city ruins background, limited color palette, crisp pixel art, retro gaming aesthetic",
+      "negative_prompt": "ugly, watermark, cropped, jpeg artifacts, distorted, text, deformed, malformed hands, unrealistic, anime, extra fingers, blurry, overexposed, morbid, amateur, bad anatomy, oversaturated, fused fingers"
+    },
+    "7_1": {
+      "personalization_seed_id": 7,
+      "input_seed_id": "1",
+      "prompt": "a mysterious otherworldly unique geometric constructs creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring deep azure coloration, iridescent blue tones, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Ukiyo-e yokai, torii/paper lanterns, fox tails/demon masks, deep red/indigo, vintage woodblock texture., detailed hand-carved lines, aged paper texture",
+      "negative_prompt": "low resolution, simple, missing limbs, oversaturated, anime, unprofessional, amateur, watermark, signature, worst quality, distorted, extra limbs, blurry, extra fingers, rough, low detail, jpeg artifacts, out of frame"
+    },
+    "7_2": {
+      "personalization_seed_id": 7,
+      "input_seed_id": "2",
+      "prompt": "a mysterious otherworldly unique geometric constructs creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring deep azure coloration, iridescent blue tones, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Ethereal surreal nature spirit, translucent glowing veins, midnight cosmic void, pale icy blue glow, dreamlike composition, impossible architecture",
+      "negative_prompt": "poorly drawn, bad anatomy, distorted, extra limbs, simple, low detail, cartoon, rough, extra fingers, oversaturated, fused fingers, overexposed, disconnected limbs, ugly, unrealistic, disfigured, basic, morbid"
+    },
+    "7_3": {
+      "personalization_seed_id": 7,
+      "input_seed_id": "3",
+      "prompt": "a mysterious otherworldly unique geometric constructs creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring deep azure coloration, iridescent blue tones, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Biomechanical cyborg, skeletal metal frame, neon cybernetic glow, dystopian lab background",
+      "negative_prompt": "missing limbs, extra fingers, duplicate, extra limbs, distorted, anime, amateur, morbid, worst quality, underexposed, disconnected limbs, jpeg artifacts, fused fingers, text, unrealistic, blurry, low quality, cropped"
+    },
+    "7_4": {
+      "personalization_seed_id": 7,
+      "input_seed_id": "4",
+      "prompt": "a mysterious otherworldly unique geometric constructs creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring deep azure coloration, iridescent blue tones, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Retro tokusatsu kaijin, fork head, red cape, urban street, 1970s aesthetic for tokusatsu-style monster designs",
+      "negative_prompt": "malformed fingers, low detail, oversaturated, signature, watermark, mutated, distorted, extra fingers, text, cropped, rough, missing limbs, amateur, low resolution, duplicate, overexposed, unrealistic, basic"
+    },
+    "7_5": {
+      "personalization_seed_id": 7,
+      "input_seed_id": "5",
+      "prompt": "a mysterious otherworldly unique geometric constructs creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring deep azure coloration, iridescent blue tones, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Horror creature, insectoid limbs, dark dungeon, decaying flesh, gothic atmosphere, macabre details",
+      "negative_prompt": "watermark, duplicated body parts, disconnected limbs, out of frame, anime, unprofessional, bad lighting, missing limbs, ugly, distorted, underexposed, simple, poorly drawn, worst quality, rough, cropped, mutated, oversaturated"
+    },
+    "7_6": {
+      "personalization_seed_id": 7,
+      "input_seed_id": "6",
+      "prompt": "a mysterious otherworldly unique geometric constructs creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring deep azure coloration, iridescent blue tones, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Cute plush monster, pastel jelly texture, candy forest background, soft lighting",
+      "negative_prompt": "cartoon, extra fingers, extra limbs, missing limbs, rough, basic, out of frame, disconnected limbs, anime, bad lighting, blurry, overexposed, watermark, duplicate, fused fingers, disfigured, cropped, morbid"
+    },
+    "7_7": {
+      "personalization_seed_id": 7,
+      "input_seed_id": "7",
+      "prompt": "a mysterious otherworldly unique geometric constructs creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring deep azure coloration, iridescent blue tones, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Cute surreal doll, baby-like head, soft sculpture texture, pastel colors, retro toy background, absurd and humorous anthropomorphic dolls, dreamlike composition, impossible architecture",
+      "negative_prompt": "disfigured, underexposed, malformed fingers, bad lighting, duplicated body parts, bad anatomy, deformed, worst quality, duplicate, too many fingers, out of frame, simple, extra limbs, fused fingers, cartoon, missing limbs, amateur, watermark"
+    },
+    "7_8": {
+      "personalization_seed_id": 7,
+      "input_seed_id": "8",
+      "prompt": "a mysterious otherworldly unique geometric constructs creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring deep azure coloration, iridescent blue tones, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Alien zombie creature, decaying flesh, insectoid limbs, dark dungeon, glowing green organs",
+      "negative_prompt": "anime, mutated, amateur, deformed, low detail, ugly, malformed fingers, signature, text, low resolution, overexposed, extra limbs, poorly drawn, simple, bad lighting, malformed hands, oversaturated, fused fingers"
+    },
+    "7_9": {
+      "personalization_seed_id": 7,
+      "input_seed_id": "9",
+      "prompt": "a mysterious otherworldly unique geometric constructs creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring deep azure coloration, iridescent blue tones, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Fused abstract creature, pineapple - monkey hybrid, vibrant city street background, bright colors",
+      "negative_prompt": "malformed fingers, unprofessional, oversaturated, ugly, distorted, anime, low quality, unrealistic, simple, rough, duplicated body parts, extra fingers, blurry, disconnected limbs, signature, cartoon, out of frame, low resolution"
+    },
+    "8_10": {
+      "personalization_seed_id": 8,
+      "input_seed_id": "10",
+      "prompt": "a mysterious otherworldly unique giant creatures creature with biomechanical textures, metallic implants, exposed circuitry, cybernetic appendages, mechanical joints, featuring deep crimson coloration, blood-red sheen, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Pixel - style monster, pixel city ruins background, limited color palette, crisp pixel art, retro gaming aesthetic",
+      "negative_prompt": "jpeg artifacts, cropped, distorted, duplicated body parts, malformed fingers, deformed, bad anatomy, cartoon, watermark, amateur, rough, blurry, out of frame, low detail, missing limbs, poorly drawn, mutated, signature"
+    },
+    "8_1": {
+      "personalization_seed_id": 8,
+      "input_seed_id": "1",
+      "prompt": "a mysterious otherworldly unique giant creatures creature with biomechanical textures, metallic implants, exposed circuitry, cybernetic appendages, mechanical joints, featuring deep crimson coloration, blood-red sheen, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Ukiyo-e yokai, torii/paper lanterns, fox tails/demon masks, deep red/indigo, vintage woodblock texture., detailed hand-carved lines, aged paper texture",
+      "negative_prompt": "malformed fingers, poorly drawn, ugly, malformed hands, text, fused fingers, blurry, simple, bad lighting, basic, extra limbs, disfigured, morbid, cartoon, too many fingers, bad anatomy, low quality, missing limbs"
+    },
+    "8_2": {
+      "personalization_seed_id": 8,
+      "input_seed_id": "2",
+      "prompt": "a mysterious otherworldly unique giant creatures creature with biomechanical textures, metallic implants, exposed circuitry, cybernetic appendages, mechanical joints, featuring deep crimson coloration, blood-red sheen, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Ethereal surreal nature spirit, translucent glowing veins, midnight cosmic void, pale icy blue glow, dreamlike composition, impossible architecture",
+      "negative_prompt": "malformed hands, rough, overexposed, text, anime, poorly drawn, out of frame, too many fingers, low resolution, extra limbs, blurry, missing limbs, disconnected limbs, bad lighting, simple, low detail, signature, bad anatomy"
+    },
+    "8_3": {
+      "personalization_seed_id": 8,
+      "input_seed_id": "3",
+      "prompt": "a mysterious otherworldly unique giant creatures creature with biomechanical textures, metallic implants, exposed circuitry, cybernetic appendages, mechanical joints, featuring deep crimson coloration, blood-red sheen, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Biomechanical cyborg, skeletal metal frame, neon cybernetic glow, dystopian lab background",
+      "negative_prompt": "underexposed, distorted, extra fingers, basic, disconnected limbs, mutated, overexposed, bad lighting, extra limbs, too many fingers, watermark, disfigured, text, low resolution, anime, bad anatomy, low quality, malformed fingers"
+    },
+    "8_4": {
+      "personalization_seed_id": 8,
+      "input_seed_id": "4",
+      "prompt": "a mysterious otherworldly unique giant creatures creature with biomechanical textures, metallic implants, exposed circuitry, cybernetic appendages, mechanical joints, featuring deep crimson coloration, blood-red sheen, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Retro tokusatsu kaijin, fork head, red cape, urban street, 1970s aesthetic for tokusatsu-style monster designs",
+      "negative_prompt": "amateur, worst quality, malformed fingers, ugly, extra limbs, unrealistic, rough, signature, out of frame, malformed hands, basic, mutated, cropped, disfigured, duplicate, oversaturated, deformed, duplicated body parts"
+    },
+    "8_5": {
+      "personalization_seed_id": 8,
+      "input_seed_id": "5",
+      "prompt": "a mysterious otherworldly unique giant creatures creature with biomechanical textures, metallic implants, exposed circuitry, cybernetic appendages, mechanical joints, featuring deep crimson coloration, blood-red sheen, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Horror creature, insectoid limbs, dark dungeon, decaying flesh, gothic atmosphere, macabre details",
+      "negative_prompt": "unprofessional, bad lighting, low resolution, fused fingers, underexposed, low detail, jpeg artifacts, distorted, ugly, signature, extra fingers, malformed hands, simple, anime, low quality, basic, bad anatomy, disconnected limbs"
+    },
+    "8_6": {
+      "personalization_seed_id": 8,
+      "input_seed_id": "6",
+      "prompt": "a mysterious otherworldly unique giant creatures creature with biomechanical textures, metallic implants, exposed circuitry, cybernetic appendages, mechanical joints, featuring deep crimson coloration, blood-red sheen, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Cute plush monster, pastel jelly texture, candy forest background, soft lighting",
+      "negative_prompt": "unrealistic, underexposed, mutated, distorted, overexposed, out of frame, text, bad lighting, signature, malformed fingers, cropped, ugly, rough, missing limbs, anime, fused fingers, low detail, extra limbs"
+    },
+    "8_7": {
+      "personalization_seed_id": 8,
+      "input_seed_id": "7",
+      "prompt": "a mysterious otherworldly unique giant creatures creature with biomechanical textures, metallic implants, exposed circuitry, cybernetic appendages, mechanical joints, featuring deep crimson coloration, blood-red sheen, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Cute surreal doll, baby-like head, soft sculpture texture, pastel colors, retro toy background, absurd and humorous anthropomorphic dolls, dreamlike composition, impossible architecture",
+      "negative_prompt": "blurry, duplicate, bad lighting, anime, overexposed, bad anatomy, missing limbs, simple, extra fingers, morbid, poorly drawn, cropped, oversaturated, out of frame, text, disfigured, cartoon, jpeg artifacts"
+    },
+    "8_8": {
+      "personalization_seed_id": 8,
+      "input_seed_id": "8",
+      "prompt": "a mysterious otherworldly unique giant creatures creature with biomechanical textures, metallic implants, exposed circuitry, cybernetic appendages, mechanical joints, featuring deep crimson coloration, blood-red sheen, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Alien zombie creature, decaying flesh, insectoid limbs, dark dungeon, glowing green organs",
+      "negative_prompt": "distorted, cropped, malformed hands, blurry, morbid, bad anatomy, rough, text, overexposed, basic, amateur, too many fingers, low detail, oversaturated, duplicate, cartoon, extra fingers, signature"
+    },
+    "8_9": {
+      "personalization_seed_id": 8,
+      "input_seed_id": "9",
+      "prompt": "a mysterious otherworldly unique giant creatures creature with biomechanical textures, metallic implants, exposed circuitry, cybernetic appendages, mechanical joints, featuring deep crimson coloration, blood-red sheen, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Fused abstract creature, pineapple - monkey hybrid, vibrant city street background, bright colors",
+      "negative_prompt": "mutated, unrealistic, bad lighting, worst quality, duplicate, disfigured, cartoon, out of frame, morbid, too many fingers, oversaturated, rough, extra limbs, amateur, blurry, missing limbs, text, cropped"
+    },
+    "9_10": {
+      "personalization_seed_id": 9,
+      "input_seed_id": "10",
+      "prompt": "a mysterious otherworldly bestial monstrous being with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring deep crimson coloration, blood-red sheen, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Pixel - style monster, pixel city ruins background, limited color palette, crisp pixel art, retro gaming aesthetic",
+      "negative_prompt": "duplicate, extra fingers, text, ugly, low resolution, too many fingers, malformed hands, cropped, mutated, anime, worst quality, disfigured, morbid, bad lighting, unrealistic, basic, malformed fingers, bad anatomy"
+    },
+    "9_1": {
+      "personalization_seed_id": 9,
+      "input_seed_id": "1",
+      "prompt": "a mysterious otherworldly bestial monstrous being with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring deep crimson coloration, blood-red sheen, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Ukiyo-e yokai, torii/paper lanterns, fox tails/demon masks, deep red/indigo, vintage woodblock texture., detailed hand-carved lines, aged paper texture",
+      "negative_prompt": "rough, amateur, extra limbs, basic, extra fingers, disconnected limbs, anime, too many fingers, duplicated body parts, low resolution, oversaturated, duplicate, mutated, watermark, jpeg artifacts, poorly drawn, bad lighting, overexposed"
+    },
+    "9_2": {
+      "personalization_seed_id": 9,
+      "input_seed_id": "2",
+      "prompt": "a mysterious otherworldly bestial monstrous being with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring deep crimson coloration, blood-red sheen, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Ethereal surreal nature spirit, translucent glowing veins, midnight cosmic void, pale icy blue glow, dreamlike composition, impossible architecture",
+      "negative_prompt": "cartoon, basic, malformed fingers, watermark, rough, extra limbs, oversaturated, disconnected limbs, jpeg artifacts, text, bad lighting, overexposed, disfigured, duplicate, low quality, mutated, too many fingers, underexposed"
+    },
+    "9_3": {
+      "personalization_seed_id": 9,
+      "input_seed_id": "3",
+      "prompt": "a mysterious otherworldly bestial monstrous being with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring deep crimson coloration, blood-red sheen, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Biomechanical cyborg, skeletal metal frame, neon cybernetic glow, dystopian lab background",
+      "negative_prompt": "signature, oversaturated, duplicated body parts, disfigured, amateur, cropped, extra limbs, mutated, overexposed, basic, duplicate, anime, low detail, unprofessional, text, simple, ugly, underexposed"
+    },
+    "9_4": {
+      "personalization_seed_id": 9,
+      "input_seed_id": "4",
+      "prompt": "a mysterious otherworldly bestial monstrous being with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring deep crimson coloration, blood-red sheen, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Retro tokusatsu kaijin, fork head, red cape, urban street, 1970s aesthetic for tokusatsu-style monster designs",
+      "negative_prompt": "simple, fused fingers, malformed fingers, duplicate, extra limbs, underexposed, low resolution, amateur, low quality, unprofessional, worst quality, mutated, cropped, watermark, bad lighting, distorted, blurry, unrealistic"
+    },
+    "9_5": {
+      "personalization_seed_id": 9,
+      "input_seed_id": "5",
+      "prompt": "a mysterious otherworldly bestial monstrous being with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring deep crimson coloration, blood-red sheen, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Horror creature, insectoid limbs, dark dungeon, decaying flesh, gothic atmosphere, macabre details",
+      "negative_prompt": "amateur, malformed hands, fused fingers, basic, anime, unprofessional, extra limbs, rough, out of frame, cropped, extra fingers, blurry, oversaturated, watermark, malformed fingers, cartoon, distorted, text"
+    },
+    "9_6": {
+      "personalization_seed_id": 9,
+      "input_seed_id": "6",
+      "prompt": "a mysterious otherworldly bestial monstrous being with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring deep crimson coloration, blood-red sheen, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Cute plush monster, pastel jelly texture, candy forest background, soft lighting",
+      "negative_prompt": "oversaturated, low quality, extra fingers, bad anatomy, malformed fingers, duplicated body parts, disfigured, underexposed, unprofessional, missing limbs, ugly, low detail, out of frame, unrealistic, bad lighting, too many fingers, cropped, fused fingers"
+    },
+    "9_7": {
+      "personalization_seed_id": 9,
+      "input_seed_id": "7",
+      "prompt": "a mysterious otherworldly bestial monstrous being with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring deep crimson coloration, blood-red sheen, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Cute surreal doll, baby-like head, soft sculpture texture, pastel colors, retro toy background, absurd and humorous anthropomorphic dolls, dreamlike composition, impossible architecture",
+      "negative_prompt": "watermark, low quality, low detail, bad anatomy, underexposed, disconnected limbs, basic, extra fingers, out of frame, too many fingers, malformed hands, ugly, amateur, duplicate, extra limbs, deformed, overexposed, unprofessional"
+    },
+    "9_8": {
+      "personalization_seed_id": 9,
+      "input_seed_id": "8",
+      "prompt": "a mysterious otherworldly bestial monstrous being with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring deep crimson coloration, blood-red sheen, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Alien zombie creature, decaying flesh, insectoid limbs, dark dungeon, glowing green organs",
+      "negative_prompt": "amateur, poorly drawn, overexposed, unprofessional, extra limbs, low quality, extra fingers, too many fingers, morbid, cropped, deformed, disconnected limbs, bad anatomy, worst quality, anime, malformed fingers, simple, duplicate"
+    },
+    "9_9": {
+      "personalization_seed_id": 9,
+      "input_seed_id": "9",
+      "prompt": "a mysterious otherworldly bestial monstrous being with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring deep crimson coloration, blood-red sheen, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Fused abstract creature, pineapple - monkey hybrid, vibrant city street background, bright colors",
+      "negative_prompt": "worst quality, ugly, too many fingers, distorted, jpeg artifacts, low resolution, fused fingers, cropped, missing limbs, basic, extra limbs, rough, cartoon, extra fingers, disfigured, overexposed, unprofessional, low quality"
+    },
+    "10_10": {
+      "personalization_seed_id": 10,
+      "input_seed_id": "10",
+      "prompt": "a mysterious otherworldly unique iron man creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring metal-like coloration, metal-like highlights, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Pixel - style monster, pixel city ruins background, limited color palette, crisp pixel art, retro gaming aesthetic",
+      "negative_prompt": "low detail, unprofessional, simple, poorly drawn, anime, disconnected limbs, basic, amateur, duplicate, oversaturated, morbid, overexposed, low resolution, extra fingers, unrealistic, duplicated body parts, cropped, mutated"
+    },
+    "10_1": {
+      "personalization_seed_id": 10,
+      "input_seed_id": "1",
+      "prompt": "a mysterious otherworldly unique iron man creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring metal-like coloration, metal-like highlights, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Ukiyo-e yokai, torii/paper lanterns, fox tails/demon masks, deep red/indigo, vintage woodblock texture., detailed hand-carved lines, aged paper texture",
+      "negative_prompt": "extra fingers, cropped, extra limbs, amateur, duplicated body parts, overexposed, mutated, low detail, worst quality, low resolution, too many fingers, low quality, malformed fingers, deformed, disconnected limbs, bad lighting, bad anatomy, disfigured"
+    },
+    "10_2": {
+      "personalization_seed_id": 10,
+      "input_seed_id": "2",
+      "prompt": "a mysterious otherworldly unique iron man creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring metal-like coloration, metal-like highlights, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Ethereal surreal nature spirit, translucent glowing veins, midnight cosmic void, pale icy blue glow, dreamlike composition, impossible architecture",
+      "negative_prompt": "watermark, anime, bad anatomy, mutated, bad lighting, worst quality, missing limbs, disfigured, low detail, text, low quality, extra fingers, amateur, out of frame, fused fingers, duplicate, underexposed, too many fingers"
+    },
+    "10_3": {
+      "personalization_seed_id": 10,
+      "input_seed_id": "3",
+      "prompt": "a mysterious otherworldly unique iron man creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring metal-like coloration, metal-like highlights, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Biomechanical cyborg, skeletal metal frame, neon cybernetic glow, dystopian lab background",
+      "negative_prompt": "low quality, simple, worst quality, unprofessional, unrealistic, basic, bad lighting, fused fingers, missing limbs, blurry, low detail, signature, bad anatomy, disconnected limbs, underexposed, out of frame, overexposed, distorted"
+    },
+    "10_4": {
+      "personalization_seed_id": 10,
+      "input_seed_id": "4",
+      "prompt": "a mysterious otherworldly unique iron man creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring metal-like coloration, metal-like highlights, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Retro tokusatsu kaijin, fork head, red cape, urban street, 1970s aesthetic for tokusatsu-style monster designs",
+      "negative_prompt": "watermark, missing limbs, disconnected limbs, underexposed, extra limbs, unrealistic, rough, poorly drawn, extra fingers, ugly, oversaturated, fused fingers, overexposed, malformed hands, amateur, duplicated body parts, out of frame, worst quality"
+    },
+    "10_5": {
+      "personalization_seed_id": 10,
+      "input_seed_id": "5",
+      "prompt": "a mysterious otherworldly unique iron man creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring metal-like coloration, metal-like highlights, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Horror creature, insectoid limbs, dark dungeon, decaying flesh, gothic atmosphere, macabre details",
+      "negative_prompt": "too many fingers, out of frame, unprofessional, anime, duplicate, signature, deformed, bad anatomy, basic, blurry, cropped, disfigured, mutated, rough, simple, poorly drawn, extra limbs, text"
+    },
+    "10_6": {
+      "personalization_seed_id": 10,
+      "input_seed_id": "6",
+      "prompt": "a mysterious otherworldly unique iron man creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring metal-like coloration, metal-like highlights, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Cute plush monster, pastel jelly texture, candy forest background, soft lighting",
+      "negative_prompt": "low detail, out of frame, malformed hands, bad lighting, signature, distorted, worst quality, oversaturated, deformed, amateur, disfigured, cartoon, disconnected limbs, too many fingers, anime, extra limbs, jpeg artifacts, overexposed"
+    },
+    "10_7": {
+      "personalization_seed_id": 10,
+      "input_seed_id": "7",
+      "prompt": "a mysterious otherworldly unique iron man creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring metal-like coloration, metal-like highlights, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Cute surreal doll, baby-like head, soft sculpture texture, pastel colors, retro toy background, absurd and humorous anthropomorphic dolls, dreamlike composition, impossible architecture",
+      "negative_prompt": "extra limbs, blurry, watermark, oversaturated, low detail, bad lighting, cropped, anime, distorted, disconnected limbs, out of frame, low quality, duplicated body parts, malformed fingers, signature, simple, rough, cartoon"
+    },
+    "10_8": {
+      "personalization_seed_id": 10,
+      "input_seed_id": "8",
+      "prompt": "a mysterious otherworldly unique iron man creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring metal-like coloration, metal-like highlights, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Alien zombie creature, decaying flesh, insectoid limbs, dark dungeon, glowing green organs",
+      "negative_prompt": "basic, too many fingers, bad lighting, blurry, cropped, jpeg artifacts, unprofessional, bad anatomy, disconnected limbs, low detail, text, duplicate, deformed, ugly, oversaturated, simple, out of frame, underexposed"
+    },
+    "10_9": {
+      "personalization_seed_id": 10,
+      "input_seed_id": "9",
+      "prompt": "a mysterious otherworldly unique iron man creature with distorted anatomy, unnatural proportions, grotesque features, otherworldly limbs, impossible geometry, featuring metal-like coloration, metal-like highlights, realistic cinematic lighting, studio photography setup, professional atmosphere, high-end production value, photorealistic, hyperdetailed, 8k resolution, sharp focus, perfect anatomy, in style of Fused abstract creature, pineapple - monkey hybrid, vibrant city street background, bright colors",
+      "negative_prompt": "jpeg artifacts, mutated, cropped, malformed hands, unprofessional, duplicated body parts, low detail, signature, disfigured, unrealistic, missing limbs, low resolution, too many fingers, bad lighting, extra limbs, duplicate, oversaturated, text"
+    }
+  },
+  "metadata": {
+    "total_combinations": 100,
+    "personalization_seeds": 10,
+    "input_seeds": 10,
+    "generation_type": "enhanced_descriptive",
+    "generation_time": "2025-06-07 20:56:35.538286"
+  }
+}
